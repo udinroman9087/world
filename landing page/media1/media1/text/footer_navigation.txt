@@ -1,0 +1,7 @@
+Главная * (http://xxxxxx-m1.wsr.ru)
+Авторизация * (http://xxxxxx-m1.wsr.ru/login)
+Регистрация * (http://xxxxxx-m1.wsr.ru/signup)
+Личный кабинет * (http://xxxxxx-m1.wsr.ru/profile)
+Поиск тура * (http://xxxxxx-m1.wsr.ru/search)
+Бронирование * (http://xxxxxx-m1.wsr.ru/booking)
+Выбор мест * (http://xxxxxx-m1.wsr.ru/seat)
